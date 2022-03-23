@@ -13,6 +13,9 @@ export class ProductListComponent {
   share() {
     window.alert('The product has been shared!');
   }
+  recom() {
+    window.alert('The product has been recommended!');
+  }
 }
 
 
