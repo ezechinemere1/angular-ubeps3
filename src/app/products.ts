@@ -21,7 +21,7 @@ export const products = [
   {
     id: 3,
     name: 'Nokia T20',
-    price: 299,
+    price: 999,
     description: 'Power through with a 8200 mAh battery and maximize your view with a 10.4" 2K display.'
   },
   {
